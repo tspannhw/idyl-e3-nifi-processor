@@ -143,6 +143,7 @@ public class IdylE3Processor extends AbstractProcessor {
 		descriptors = new ArrayList<PropertyDescriptor>();
 		descriptors.add(IDYL_E3_HOST);
 		descriptors.add(IDYL_E3_API_KEY);
+		descriptors.add(IDYL_E3_ACTION);
 		descriptors.add(IDYL_E3_CONTEXT);
 		descriptors.add(IDYL_E3_DOCUMENT_ID);
 		descriptors.add(IDYL_E3_LANGUAGE);
